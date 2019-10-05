@@ -1,0 +1,1 @@
+Worth noting that running in a shell is orders of magnitude faster than running in the IDE console. 
